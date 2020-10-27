@@ -22,7 +22,9 @@ body {
   background-size: 300px 300px;
 
 }
-  
+  *{
+    box-sizing: border-box;
+  }
 .box {
   display: inline-block;       
   border: 1px solid black;
